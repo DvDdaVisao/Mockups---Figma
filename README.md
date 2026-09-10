@@ -5,7 +5,7 @@ TeamClass
 [Visualizar projeto no Figma](https://www.figma.com/design/yTrDrn5Fwc5QgoSeWaqgMZ/TeamClass?m=auto&t=Gl36ZRcClYmGNBlZ-6)
 
 BibliON
-[Visualizar projeto no Figma]((https://www.figma.com/design/5bR0tHYB0x2tcHwYHSogZf/Biblion?m=auto&t=Gl36ZRcClYmGNBlZ-6))
+[Visualizar projeto no Figma](https://www.figma.com/design/5bR0tHYB0x2tcHwYHSogZf/Biblion?m=auto&t=Gl36ZRcClYmGNBlZ-6)
 
 Giftcorp
 [Visualizar projeto no Figma](https://www.figma.com/design/E740aWg66iayYwR2659Jzj/Giftcorp?m=auto&t=Gl36ZRcClYmGNBlZ-6)
